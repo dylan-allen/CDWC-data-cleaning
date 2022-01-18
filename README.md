@@ -1,9 +1,7 @@
 # Domestic Worker Mapping Project: Survey Data Cleaning
 *As part of SOC 116AC: "Work, Justice & the Labor Movement" and the UC Berkeley Labor Center*
 
-Want to see visualizations based on this data? Check them out [here](https://deepnote.com/@dylan-supencheck/SOC-116AC-Domestic-Worker-Commute-Mapping-wUVicJ6UQY6SNmzn_IcPtw)!
-
-## What is this?
+**Want to see visualizations based on this data? Check them out [here](https://deepnote.com/@dylan-supencheck/SOC-116AC-Domestic-Worker-Commute-Mapping-wUVicJ6UQY6SNmzn_IcPtw)!**
 
 These notebooks are written to clean data collected from California domestic workers surveyed on their demographics, commutes, and experiences with worker's rights violations. 
 
