@@ -1,6 +1,8 @@
 # Domestic Worker Mapping Project: Survey Data Cleaning
 *As part of SOC 116AC: "Work, Justice & the Labor Movement" and the UC Berkeley Labor Center*
 
+Want to see visualizations based on this data? Check them out [here](https://deepnote.com/@dylan-supencheck/SOC-116AC-Domestic-Worker-Commute-Mapping-wUVicJ6UQY6SNmzn_IcPtw)!
+
 These notebooks are written to clean data collected from California domestic workers on their demographics, commutes, and experiences with worker's rights violations. 
 
 The survey was conducted via Google Forms and included over 400 employee responses on over 500 of their employers. Many questions asked are free response questions, or include an "Other" free response option. The data was originally collected in English, Spanish, and Mandarin, and has been translated to English (except for some free response).
