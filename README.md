@@ -9,7 +9,7 @@ The survey was conducted via Google Forms and included over 400 employee respons
 
 Originally, multiple choice questions were formatted by Google Forms as concattenated lists. These were cleaned to be formatted as True/False columns for each option. 
 
-Many domestic workers have multiple employers. In the survey, respondents were asked to provide data on their each of their employers, and were asked a series of identical questions for each employer. Google Forms made a new set of columns for each employer response, leading the original table to have 416 (aka too many) columns. To fix this, the data was collapsed to employer level. Each employer response is a new column, and given an ascending employer ID up to the number of employers a respondent recorded. 
+Many domestic workers have multiple employers. In the survey, respondents were asked to provide data on each of their employers, and were asked a series of identical questions for each employer. Google Forms made a new set of columns for each employer response, leading the original table to have 416 (aka too many) columns. To fix this, the data was collapsed to employer level. Originally each row was an employee's survey response, containing one or more response about their employers. Now, each employer response is a new row, and given an ascending employer ID up to the number of employers a respondent recorded. 
 
 ZIP code and city name responses were also cleaned, and test responses were dropped.
 
